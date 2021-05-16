@@ -20,9 +20,9 @@
 
 ### Terminology
 
-**(otherwise, unknown)**: The mod version specified is not clear, if the one listed is not correct, then, it's unknown.
+**(otherwise, unknown)**: The mod version specified is not clear, if the one listed is not correct, then, it's unknown.<br/>
 **(optional)**: The mod is optional, it isn't required to be installed.
 
-^: Mod version
-~: Game version
-~^: Mod version; Contains or specifies game version in the mod ver. itself.
+^: Mod version<br/>
+~: Game version<br/>
+~^: Mod version; Contains or specifies game version in the mod ver. itself.<br/>
